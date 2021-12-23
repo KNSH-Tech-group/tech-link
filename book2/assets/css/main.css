@@ -6,6 +6,32 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+.otherlink1 {
+	
+	padding: 2px 10px;
+	font-weight: bold;
+	color: #0000B8 !important;
+	text-decoration:none;
+/*	background-color: #e6fae6;*/
+}
+.otherlink1:hover {
+	color: #ff7400 !important;
+
+	background-color: #e6f0ee ;
+}
+.otherlink2 {
+	
+	padding: 2px 10px;
+	font-weight: bold;
+	color: #008F8F !important;
+	text-decoration:none;
+/*	background-color: #e6fae6;*/
+}
+.otherlink2:hover {
+	color: #ff7400 !important;
+
+	background-color: #e6f0ee;
+}
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -1325,7 +1351,7 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Microsoft JhengHei','Source Sans Pro', sans-serif;
 		font-weight: 300;
 		color: #777777;
 		font-size: 20pt;
