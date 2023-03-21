@@ -6,6 +6,17 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 	*/
+	.demo-text{
+		font:95% "微軟雅黑" !important; /*設定字型和字型大小*/
+		position: relative;
+		font-weight: bold; /*設定字型粗細*/
+		text-align: left; /*設定文字居中*/
+		color: #ff33cc; /*設定文字顏色*/
+		display: inline-block;	
+		animation: bounce infinite; /* 引用動畫的 @keyframe 名稱 */
+		animation-duration: 1.6s; /* 別忘了設定持續時間 */
+	}
+
 	#home-link {
 		color:white;
 		font-size:1.9em;
