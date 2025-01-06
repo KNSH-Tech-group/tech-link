@@ -2077,7 +2077,7 @@ section, summary, time, mark, audio, video {
 
 		#main > .panel.intro {
 			padding: 0;
-			height: 28em;
+			height: 35em;
 			display: -moz-flex;
 			display: -webkit-flex;
 			display: -ms-flex;
